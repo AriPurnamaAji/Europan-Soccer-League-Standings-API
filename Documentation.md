@@ -17,10 +17,10 @@ show_svg | Public | url:str | display image
 standings | Public | id:str, connection:connection, headers:headers | response:response
 scorers | Public | id:int, connection:connection, headers:headers | response:response
 teams | Public | id:int, connection:connection, headers:headers | response:response
-standings_league_info | public | league | print(standings info in specific league)
+standings_league_info | public | league:str | print(standings info in specific league)
 top_3_teams_in_all_league | public | none | print(top 3 teams in each league)
-team_info | public | club | print(team standings info)
-get_top_scores_in_league | public | league | print(top scorers in specific league)
+team_info | public | club:str | print(team standings info)
+get_top_scores_in_league | public | league:str | print(top scorers in specific league)
 get_top_3_scores_in_all_league | public | none | print(Get top 3 scorers in each league)
  
 ## Statistic
