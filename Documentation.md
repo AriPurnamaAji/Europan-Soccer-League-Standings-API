@@ -11,4 +11,4 @@ I made this rest api program in 3 days because I learned about fire rest first a
 
 
 ## Statistic
-I wrote 182 line of codes by myself
+I wrote 182 line of codes by myself in EuropeanSoccerLeagueStandingsAPI.ipynb file.
