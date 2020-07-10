@@ -5,7 +5,7 @@ I enthusiastic football news and I always pay attention to the standings especia
 I made this rest api program in 3 days because I learned about fire rest first and after that I started to manage and develop the data through the program that I created.
 
 ## The Code's Structure
-The EuropeanSoccerLeagueStandingsAPI.ipynb is the main class or the starting point
+The ```EuropeanSoccerLeagueStandingsAPI.ipynb``` is the main class or the starting point
 
 ## Class and Function Interface
 
@@ -24,4 +24,4 @@ get_top_scores_in_league | public | league : str | print (top scorers in specifi
 get_top_3_scores_in_all_league | public | none | print (Get top 3 scorers in each league)
  
 ## Statistic
-I wrote 182 line of codes by myself in EuropeanSoccerLeagueStandingsAPI.ipynb file.
+I wrote 182 line of codes by myself in ```EuropeanSoccerLeagueStandingsAPI.ipynb``` file.
